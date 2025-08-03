@@ -1,0 +1,10 @@
+{
+  "domain": "smartknob",
+  "name": "SmartKnob Integration",
+  "version": "1.0.0",
+  "documentation": "https://yoururl.com/docs",
+  "dependencies": [],
+  "codeowners": ["@JulianFischer03, @timordus"],
+  "requirements": [],
+  "config_flow": true
+}
