@@ -1,7 +1,7 @@
 {
   "domain": "smartknob",
   "name": "SmartKnob Integration",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "documentation": "https://yoururl.com/docs",
   "dependencies": [],
   "codeowners": ["@JulianFischer03, @timordus"],
